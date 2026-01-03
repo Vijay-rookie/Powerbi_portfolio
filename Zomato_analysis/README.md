@@ -49,7 +49,7 @@ Average Rating = AVERAGE(KPIs[Aggregate rating])
 ## Dashboard Preview
 
 ### Report overview
-
+Zomato_analysis/Screenshot 2026-01-03 203508.png
 
 ## Live Dashboard
 
