@@ -17,8 +17,8 @@ This project analyses zomato data using <b>Power BI</b> to identify trends in re
 ## Data Cleaning and preparation
 - The first step is to open the excel files one by one in <b>power query editor</b> and then rename some countries, take care of null cloumns and rows.
 - After that, In all files except country-code and fact table, a new column is created by the name of <b>Region</b>.
-- In my 3rd step, I <b>Append</b> all continent files through Append Query as new and named it "Business Countries".
-- Then a craeted two new table, one is "Cuisine table" and other is "KPIs table".
+- In my 3rd step, I <b>Append</b> all continent files through <b>Append Query as new </b> and named it "Business Countries".
+- Then created two new table, one is "Cuisine table" and other is "KPIs table".
 
 ## Key KPIs
 - Number of Restaurants globally.
