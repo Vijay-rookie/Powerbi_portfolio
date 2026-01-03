@@ -50,11 +50,11 @@ Average Rating = AVERAGE(KPIs[Aggregate rating])
 
 ### Report overview
 
-![Report overview](Screenshot_2026-01-03_203508.png)
+![Report overview](Screenshot%202026-01-03%20203508.png)
 
 ### Visualization
 
-![Visualization](Screenshot_2026-01-04_010427.png)
+![Visualization](Screenshot%202026-01-04%20010427.png)
 
 ## Live Dashboard
 
