@@ -2,7 +2,7 @@
 
 ## Project Overview 
 <br>
-This project analyses zomato data using **Power BI** to identify trends in restaurant performance, customer rating and location based insights. The dashboard is also made which help stakeholder to understand business trends and pattern to make data-driven decision. It helps in analysing Zomato presence and its market shre around the world by uncovering insights related to restaurants, cities, regions, customer rating, cuisine choice,etc. 
+This project analyses zomato data using <b>Power BI</b> to identify trends in restaurant performance, customer rating and location based insights. The dashboard is also made which help stakeholder to understand business trends and pattern to make data-driven decision. It helps in analysing Zomato presence and its market shre around the world by uncovering insights related to restaurants, cities, regions, customer rating, cuisine choice,etc. 
 
 ## Data set
 -**Fact Table.xlsx** - Contains data related to Average cost, Average rating, price range, online delivery status,etc.
@@ -15,10 +15,10 @@ This project analyses zomato data using **Power BI** to identify trends in resta
 - **Country-code.xlsx** - Countries name and their respective codes.
 
 ## Data Cleaning and preparation
-- The first step is to open the excel files one by one in **power query editor** and then rename some countries, take care of null cloumns and rows.
-- After that, In all files except country-code and fact table, a new column is created by the name of <b> Region <b>.
-- In my 3rd step, I **Append** all continent files through **Append Query as new** and named it "Business Countries".
-- Then a craeted two new table, one is "cuisine table" and other is "KPIs table".
+- The first step is to open the excel files one by one in <b>power query editor</b> and then rename some countries, take care of null cloumns and rows.
+- After that, In all files except country-code and fact table, a new column is created by the name of <b>Region</b>.
+- In my 3rd step, I <b>Append</b> all continent files through Append Query as new and named it "Business Countries".
+- Then a craeted two new table, one is "Cuisine table" and other is "KPIs table".
 
 ## Key KPIs
 - Number of Restaurants globally.
@@ -49,7 +49,12 @@ Average Rating = AVERAGE(KPIs[Aggregate rating])
 ## Dashboard Preview
 
 ### Report overview
-Zomato_analysis/Screenshot 2026-01-03 203508.png
+
+![Report overview](Screenshot 2026-01-03 203508.png)
+
+### Visualization
+
+![Visualization](Screenshot 2026-01-04 010427.png)
 
 ## Live Dashboard
 
