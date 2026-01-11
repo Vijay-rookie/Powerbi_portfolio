@@ -14,5 +14,7 @@ This project presents an interactive Power Bi Dashboard analysing Blinkit grocer
 - Data Visualization techniques
 
 ## Screenshots
+![Dashboard](Dashboard.png)
 
+## Live Dashboard
 
