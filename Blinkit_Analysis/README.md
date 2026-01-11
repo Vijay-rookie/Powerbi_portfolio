@@ -13,8 +13,8 @@ This project presents an interactive Power Bi Dashboard analysing Blinkit grocer
 - DAX
 - Data Visualization techniques
 
-## Screenshots
+## Screenshots <br>
 ![Dashboard](Dashboard.png)
 
-## Live Dashboard
-
+## Live Dashboard <br>
+<iframe title="Blinkit" width="600" height="373.5" src="https://app.fabric.microsoft.com/view?r=eyJrIjoiYWUyMjFiMjEtMzgzNC00NjViLTliZTktZjY5ZDNiZjk1Mzg0IiwidCI6ImE0MmRjZTc5LTI2ZTktNDNiZC05MjFjLTY0OGUwZTYxYjAyMCJ9" frameborder="0" allowFullScreen="true"></iframe>
